@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Satyasai<br>Frontend / Full Stack Developer | React.js | JavaScript |TypeScript | Node.js | MERN Stack<br><br>Software Engineer with 4 years of experience in building scalable web applications using React.js, TypeScript, JavaScript, Redux, MUI, Node.js, and MongoDB.<br><br>Passionate about creating reusable components, performance optimization, responsive UI, and solving real-world problems.<br><br>Building reusable UI components, scalable frontend architecture, and full stack MERN applications.<br>Advanced System Design, Node.js Architecture, Next.js, and AI-integrated applications.
+Hi 👋, I'm Satyasai<br>Frontend / Full Stack Developer | React.js | JavaScript | TypeScript | Node.js | MERN Stack<br><br>Software Engineer with 4 years of experience in building scalable web applications using React.js, TypeScript, JavaScript, Redux, MUI, Node.js, and MongoDB.<br><br>Passionate about creating reusable components, performance optimization, responsive UI, and solving real-world problems.<br><br>Building reusable UI components, scalable frontend architecture, and full stack MERN applications.<br>Advanced System Design, Node.js Architecture, Next.js, and AI-integrated applications.
 
 
 ## 🌐 Socials:
